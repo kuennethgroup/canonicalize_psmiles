@@ -1,5 +1,7 @@
 # Canonicalize PSMILES 
 
+# IMPORTANT NOTE: The code and data shared here is available for academic non-commercial use only
+
 **I recommend using the [`psmiles`](https://github.com/Ramprasad-Group/psmiles) Python package that integrates canonicalization and other tools to work with PSMILES.**
 
 PSMILES (Polymer SMILES) is a chemical language to represent polymer structures. PSMILES strings have two stars (`[*]` or `*`) symbols that indicate the two endpoints of the polymer repeat unit and otherwise follow the daylight SMILES syntax defined at [OpenSmiles](http://opensmiles.org/opensmiles.html). Developed as part of [arXiv](https://arxiv.org/abs/2209.14803). 
