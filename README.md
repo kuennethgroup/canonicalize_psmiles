@@ -33,7 +33,7 @@ The canonicalization routine of the `PSMILES` packages finds a canonicalized ver
 ## Install 
 
 ```bash
-pip install git+https://github.com/kuenneth/canonicalize_psmiles.git
+pip install git+https://github.com/kuennethgroup/canonicalize_psmiles.git
 ```
 
 ## How to use
